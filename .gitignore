@@ -1,0 +1,7 @@
+*.o
+*.txt
+client
+server
+output.dat
+ppp_test
+
